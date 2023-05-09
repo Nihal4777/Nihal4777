@@ -4,7 +4,7 @@
 
 A learner who loves to interact and educate people. Always stays curious about everything. Developer who is trying to make people's life easier and happier.
 
-🔭 I know
+## 🔭 I know
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,html,css,js,java,nodejs,php,mysql,laravel)](https://github.com/Nihal4777)
 
@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with me: 
 
-<a href=”https://www.linkedin.com/in/nihal-rajpal/"><img align=”left” src=”https://raw.githubusercontent.com/Nihal4777/Nihal4777/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/nihal-rajpal/"><img align="left" src="https://raw.githubusercontent.com/Nihal4777/Nihal4777/main/images/linkedin.png" alt="icon | LinkedIn" width="24px"/></a>
 
+<a href="https://www.hackerrank.com/nihal_rajpal"><img align="left" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="icon | LinkedIn" width="214px"/></a>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nihal-rajpal)
+<!-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nihal-rajpal) -->
