@@ -2,7 +2,7 @@
 
 ### I'm Nihal
 
-A learner who loves to interact and educate people. Always stays curious about everything. Developer who is trying to make people's life easier and happier.
+Curiosity driven learner who always loves to explore and understand new things. My area of research interest majorly includes web technologies and microprocessors. I am also an aspiring educator who loves to teach new technology to people.
 
 ## 🔭 I know
 
