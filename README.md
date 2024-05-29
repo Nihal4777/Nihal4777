@@ -3,7 +3,13 @@
 ### I'm Nihal
 
 Curiosity driven learner who always loves to explore and understand new things. My area of research interest majorly includes web technologies and microprocessors. I am also an aspiring educator who loves to teach new technology to people.
+## 🚀 About Me
 
+- 🔭 I'm currently pursuing my Bachelor's in Computer Engineering at L.D. College of Engineering.
+- 📝 I'm currently serving as technical lead at Google Developer Student Club at LDCE.
+- 🌐 Also currently contributing as mentor at GSSoC'24
+
+  
 ## 🔭 I know
 <p align="center">
    <a href="https://github.com/Nihal4777">
