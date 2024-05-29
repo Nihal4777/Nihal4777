@@ -6,7 +6,7 @@ Curiosity driven learner who always loves to explore and understand new things. 
 
 ## 🔭 I know
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,html,css,js,java,nodejs,php,mysql,laravel)](https://github.com/Nihal4777)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,nodejs,php,mysql,laravel,python)](https://github.com/Nihal4777)
 
 
 <!--
