@@ -5,9 +5,11 @@
 Curiosity driven learner who always loves to explore and understand new things. My area of research interest majorly includes web technologies and microprocessors. I am also an aspiring educator who loves to teach new technology to people.
 
 ## 🔭 I know
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,nodejs,php,mysql,laravel,python)](https://github.com/Nihal4777)
-
+<p align="center">
+   <a href="https://github.com/Nihal4777">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,nodejs,php,mysql,laravel,python,git&perline=6" />
+  </a>
+</p>
 
 <!--
 **Nihal4777/Nihal4777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
