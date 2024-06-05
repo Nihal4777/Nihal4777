@@ -7,6 +7,7 @@ Curiosity driven learner who always loves to explore and understand new things. 
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Engineering at L.D. College of Engineering.
 - 📝 I'm currently serving as technical lead at Google Developer Student Club at LDCE.
+- 💻 I'm working as lead backend developer at website maintenance team our institute.
 - 🌐 Also currently contributing as mentor at GSSoC'24
 
   
