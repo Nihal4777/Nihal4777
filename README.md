@@ -9,7 +9,7 @@ Curiosity driven learner who always loves to explore and understand new things. 
 - 🎓 Bachelor’s in Computer Engineering (2021 – 2025) from L. D. College of Engineering.
 - 👨‍💻 Currently working as an Associate Software Engineer (ASE) at OpenXcell, contributing to the Speed – Bitcoin and Stablecoin Payment Processor backend team using Java.
 - 🧠 Google Summer of Code 2025 Developer at CircuitVerse, where I worked on the Open Hardware Component Library project — building new digital components and enabling serial device connectivity with real hardware.
--💡 Previously interned at Eight Spheres Technologies as a Backend Engineer.
+- 💡Previously interned at Eight Spheres Technologies as a Backend Engineer.
 - 🌱 Served as the Technical Lead at Google Developer Student Clubs (GDSC) LDCE.
 - 🤝 Mentored participants in GirlScript Summer of Code (GSSoC) 2024, and was recognized among the Top 10 Mentors.
 
