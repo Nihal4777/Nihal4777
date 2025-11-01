@@ -3,12 +3,15 @@
 ### I'm Nihal
 
 Curiosity driven learner who always loves to explore and understand new things. My area of research interest majorly includes web technologies and microprocessors. I am also an aspiring educator who loves to teach new technology to people.
+
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Engineering at L.D. College of Engineering.
-- 📝 I'm currently serving as technical lead at Google Developer Student Club at LDCE.
-- 💻 I'm working as lead backend developer at website maintenance team our institute.
-- 🌐 Also currently contributing as mentor at GSSoC'24
+- 🎓 Bachelor’s in Computer Engineering (2021 – 2025) from L. D. College of Engineering.
+- 👨‍💻 Currently working as an Associate Software Engineer (ASE) at OpenXcell, contributing to the Speed – Bitcoin and Stablecoin Payment Processor backend team using Java.
+- 🧠 Google Summer of Code 2025 Developer at CircuitVerse, where I worked on the Open Hardware Component Library project — building new digital components and enabling serial device connectivity with real hardware.
+-💡 Previously interned at Eight Spheres Technologies as a Backend Engineer.
+- 🌱 Served as the Technical Lead at Google Developer Student Clubs (GDSC) LDCE.
+- 🤝 Mentored participants in GirlScript Summer of Code (GSSoC) 2024, and was recognized among the Top 10 Mentors.
 
   
 ## 🔭 I know
@@ -17,21 +20,6 @@ Curiosity driven learner who always loves to explore and understand new things. 
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,nodejs,php,mysql,laravel,python,git&perline=6" />
   </a>
 </p>
-
-<!--
-**Nihal4777/Nihal4777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 📫 Connect with me: 
 
